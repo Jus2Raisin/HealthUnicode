@@ -1,0 +1,4 @@
+name: HealthUnicode
+version: '${project.version}'
+main: fr.jus2raisin.HealthUnicodePlugin
+api-version: 1.19
